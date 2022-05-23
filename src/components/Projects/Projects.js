@@ -33,6 +33,14 @@ function Projects() {
               link="https://dreamy-curran-5c15a0.netlify.app//"
               gitlink="https://github.com/KapoorKartik/Udemy-Clone"
             />
+                 <ProjectCard
+              imgPath={emotion}
+              isBlog={false}
+              title="social media website"
+              description="The social media website is sihttps://boisterous-nasturtium-30a4ce.netlify.app/milar to the PinInterest website where user can able to upload, delete, and save the photos"
+              link="https://boisterous-nasturtium-30a4ce.netlify.app/"
+              gitlink="https://github.com/irshathahamed21/social_media_app"
+            />
           </Col>
           {/* <Col md={4} className="project-card">
             <ProjectCard
