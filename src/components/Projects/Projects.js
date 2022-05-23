@@ -33,14 +33,21 @@ function Projects() {
               link="https://dreamy-curran-5c15a0.netlify.app//"
               gitlink="https://github.com/KapoorKartik/Udemy-Clone"
             />
-                 <ProjectCard
+                 
+          </Col>
+        <Col md={4} className="project-card">
+             <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="social media website"
-              description="The social media website is sihttps://boisterous-nasturtium-30a4ce.netlify.app/milar to the PinInterest website where user can able to upload, delete, and save the photos"
-              link="https://boisterous-nasturtium-30a4ce.netlify.app/"
-              gitlink="https://github.com/irshathahamed21/social_media_app"
+              title="Clone of the udemy.com"
+              description="udemy.com  web application to buy new courses to update skills. As of June of 2021, the platform has more than 44 million students, 183,000 courses, and 65,000 instructors teaching courses in 75 languages. There have been over 594 million course enrollments."
+              link="https://dreamy-curran-5c15a0.netlify.app//"
+              gitlink="https://github.com/KapoorKartik/Udemy-Clone"
             />
+                 
+          </Col>
+                 
           </Col>
           {/* <Col md={4} className="project-card">
             <ProjectCard
